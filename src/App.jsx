@@ -78,8 +78,8 @@ function App() {
 
           {/* Logo */}
           <a href="#" className="logo">
-            <span className="logo-mark">N</span>
-            <span className="logo-text">NEXORA</span>
+            <span className="logo-mark">P</span>
+            <span className="logo-text">PUMO</span>
           </a>
 
           {/* Desktop Navigation */}
@@ -1119,8 +1119,8 @@ function App() {
       {/* COMPANY */}
       <div className="footer-company">
         <a href="#" className="footer-logo">
-          <span className="logo-mark">N</span>
-          <span>NEXORA</span>
+          <span className="logo-mark">P</span>
+          <span>PUMO</span>
         </a>
 
         <p>
