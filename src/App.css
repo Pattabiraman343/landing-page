@@ -235,13 +235,8 @@ a {
 
   inset: 0;
 
-  background:
-    linear-gradient(
-      90deg,
-      #ffca00 0%,
-      #ffca00 45%,
-      #ffcc0000 100%
-    );
+  background: linear-gradient(90deg, #ffca00 0%, #ffca00 50%, #ffcc0000 50%);
+
 }
 
 /* CONTENT */
