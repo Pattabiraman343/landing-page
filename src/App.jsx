@@ -1165,16 +1165,16 @@ function App() {
         <div className="contact-item">
           <span>📍</span>
           <p>
-            2nd Floor, Nexora Tower,<br />
-            Avinashi Road,<br />
+            3rd Floor, Rathinam Circle,<br />
+            Race Cource Road,<br />
             Coimbatore, Tamil Nadu 641018
           </p>
         </div>
 
         <div className="contact-item">
           <span>📞</span>
-          <a href="tel:+919876543210">
-            +91 98765 43210
+          <a href="tel:+8190821211">
+            +91 819082 1221
           </a>
         </div>
 
